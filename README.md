@@ -19,6 +19,3 @@ Uncertainty-Aware Staking Framework
 
 Dataset:
 CDC Personal Key Indicators of Heart Disease
-
-Primary Evaluation Metric:
-Recall
