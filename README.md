@@ -8,18 +8,17 @@ Tassaneeporn Tuion
 
 Prince of Songkla University
 
-## Research Workflow
+Study 1:
+Comparison of Imbalanced Data Techniques
 
-Data
-↓
-Preprocessing
-↓
-Baseline Models
-↓
-Ensemble Models
-↓
-Uncertainty-aware Stacking
-↓
-Calibration
-↓
-SHAP Analysis
+Study 2:
+Ensemble Learning for Heart Disease Prediction
+
+Study 3:
+Uncertainty-Aware Staking Framework
+
+Dataset:
+CDC Personal Key Indicators of Heart Disease
+
+Primary Evaluation Metric:
+Recall
