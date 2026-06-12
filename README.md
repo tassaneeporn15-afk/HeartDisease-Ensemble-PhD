@@ -3,19 +3,14 @@ Machine Learning Methods Using Ensemble Techniques for Predicting Heart Disease
 
 PhD Research Thesis
 
-Author:
-Tassaneeporn Tuion
+Author: Tassaneeporn Tuion
 
-Prince of Songkla University
+Institution: Prince of Songkla University
 
-Study 1:
-Comparison of Imbalanced Data Techniques
+Study 1: Comparison of Imbalanced Data Techniques for Heart Disease Prediction
 
-Study 2:
-Ensemble Learning for Heart Disease Prediction
+Study 2: Ensemble Learning for Heart Disease Prediction
 
-Study 3:
-Uncertainty-Aware Staking Framework
+Study 3: Uncertainty-Aware Stacking Framework for Heart Disease Prediction
 
-Dataset:
-CDC Personal Key Indicators of Heart Disease
+Dataset: CDC Personal Key Indicators of Heart Disease
